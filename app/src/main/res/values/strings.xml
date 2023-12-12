@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Susheel\'s</string>
+    <string name="text">Welcome to Susheel\'s Gaming</string>
+    <string name="grid">grid</string>
+    <string name="funtion">playerTap</string>
+    <string name="text2">X\'s turn tap to play</string>
+
+</resources>
